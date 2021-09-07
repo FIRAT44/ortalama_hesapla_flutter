@@ -1,6 +1,6 @@
 # flutter_dinamik_not
 
-A new Flutter project.
+ortalama hesaplama uygulaması
 
 ## Getting Started
 
